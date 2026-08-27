@@ -10,3 +10,4 @@ new line added through CLI
 new line added through CLI 
 new line added through VS Code 
 >>>>>>> e3f7d4806b6d21eebe508d3248cb1492a1ddc125
+
