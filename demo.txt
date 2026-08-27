@@ -1,13 +1,1 @@
-2026 new line
-hello DevOps
-now the is edited 😁
-3 line is edited on github
-new line added through CLI 2 
-<<<<<<< HEAD
-new line added through CLI
-2026 
-=======
-new line added through CLI 
-new line added through VS Code 
->>>>>>> e3f7d4806b6d21eebe508d3248cb1492a1ddc125
 
